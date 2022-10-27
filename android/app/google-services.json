@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804272557930",
+    "project_id": "tugasminiproject",
+    "storage_bucket": "tugasminiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804272557930:android:f87878ee9b981973ccdf13",
+        "android_client_info": {
+          "package_name": "com.example.tugasminiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804272557930-ub295hldbhfcrtsqchjvg7qfg9l8d1i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugasminiproject",
+            "certificate_hash": "0be94c123222d0c9f37ea9fc49d67f339d930b58"
+          }
+        },
+        {
+          "client_id": "804272557930-ucsvg6veob4uebag5tbj3h6ntmsesc9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk35M8YfTVsLBSDmciABU1pYm-8CB19no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804272557930-ucsvg6veob4uebag5tbj3h6ntmsesc9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
